@@ -1,4 +1,5 @@
-# chessvue
+# Speedie-Vue-Chess
+This is a chess website build using the VueJS framework, intended to be used as a way of testing how quick one is with the mouse whilst making moves.
 
 ## Project setup
 ```
